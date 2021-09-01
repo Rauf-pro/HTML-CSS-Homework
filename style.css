@@ -3,7 +3,7 @@
    border-left: solid 5px blue;
    padding: 15px;
 } */
-#P1{
+/* #P1{
     color: #0dd40d;
 }
 p {
@@ -20,4 +20,39 @@ span {
     color:gold;
     background-color: grey;
     font-size: 12px;
+} */
+/* 
+p {
+    /* border: solid;
+    border-radius: 8px;
+    padding: 10px;
+} */ 
+
+table {
+    width: 400px;
+    text-align: center;
+    border: 3px solid black;
+    
+    
 }
+
+table, th {
+    /* border:  1px solid black; */
+    border-collapse: collapse;
+    padding: 2px;
+    margin: 10px;
+}
+th {
+    padding-left: 5px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+td {
+   border-right: 1px solid black;
+   font: bolder;
+   
+}
+
+
+    
